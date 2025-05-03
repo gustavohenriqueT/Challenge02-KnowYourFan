@@ -51,3 +51,8 @@ Aplicação de análise de fãs desenvolvida para a FURIA Esports que permite:
 - npm install
 - cp .env.example .env
 - npm run dev
+
+## Credenciais de login
+
+Admin: admin / furia2023
+Analista: analyst / furia123
