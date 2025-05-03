@@ -1,0 +1,53 @@
+# Know Your Fan - FURIA Esports Analytics Platform
+
+## Visão Geral
+Aplicação de análise de fãs desenvolvida para a FURIA Esports que permite:
+
+- Coleta e análise de dados demográficos
+- Monitoramento de engajamento em redes sociais
+- Rastreamento de preferências de conteúdo
+- Análise de interações com a marca
+
+## Funcionalidades Principais
+
+### Dashboard Analítico
+- Visualização em tempo real de métricas-chave
+- Gráficos interativos de engajamento
+- Painel com principais KPI's
+
+### Gerenciamento de Fãs
+- Banco de dados completo de perfis
+- Filtros avançados por:
+  - Localização geográfica
+  - Nível de engajamento
+  - Preferências de jogos
+- Detalhes completos de cada fã
+
+### Segmentação
+- Criação de grupos personalizados
+- Análise comparativa entre segmentos
+- Exportação de relatórios
+
+### Integrações
+- Conexão com redes sociais:
+  - Twitter
+  - Instagram
+  - Twitch
+- API para integração com outros sistemas
+
+## Tecnologias Utilizadas
+- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
+- **Backend**: Node.js, Express
+- **Banco de Dados**: JSON (simulado)
+- **Autenticação**: JWT (JSON Web Tokens)
+
+## Como Executar
+
+### Pré-requisitos
+- Node.js (v16 ou superior)
+- NPM (v8 ou superior)
+
+### Comandos
+- npm install
+- cp .env.example .env
+- npm run dev
